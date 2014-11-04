@@ -42,7 +42,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.18.*.iOS8</string>
+				<string>net.18.*</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
