@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://18app.github.io/atom.xml" rel="self"/>
   <link href="http://18app.github.io/"/>
-  <updated>2015-02-02T13:41:53+08:00</updated>
+  <updated>2015-02-02T14:17:43+08:00</updated>
   <id>http://18app.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,9 @@
     <link href="http://18app.github.io/blog/2015/02/02/appweban-zhuang/"/>
     <updated>2015-02-02T11:13:01+08:00</updated>
     <id>http://18app.github.io/blog/2015/02/02/appweban-zhuang</id>
-    <content type="html"><![CDATA[<p><a href="itms-services://?action=download-manifest&url=https://18app.github.io/install/test1/test.plist" id="text">Install the App</a></p>
+    <content type="html"><![CDATA[<p><a href="itms-services://?action=download-manifest&url=https://18app.github.io/install/test.plist" id="text">Install the App</a></p>
+
+<p><a href="itms-services://?action=download-manifest&url=https://18app.github.io/install/～test.plist" id="text">Install the App</a></p>
 ]]></content>
   </entry>
   
